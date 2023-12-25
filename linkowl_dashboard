@@ -1,0 +1,10 @@
+<style>
+.lo-header {
+	background-color: black;
+}
+
+</style>
+
+<div class="lo-header">
+text
+</div>
